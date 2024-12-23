@@ -225,4 +225,4 @@ op3n= function() {
   console.trace("--fx--op3n--", arguments);
   window.open("https://ads.games235.com/");
   // alert("--fx--xopen--");
-}
+}  
